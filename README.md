@@ -1,4 +1,4 @@
-
+# APAAR Ready
 
    **AI-assisted student data management, record reconciliation, APAAR readiness and institutional analytics.**
 
