@@ -5,7 +5,7 @@
 Smart India Hackathon 2026 · Problem Statement ID: SIH26263 · Team: SKYJAD
 
 > **Demonstration build.** All data is synthetic. This project is not connected to the real APAAR, UDISE+, Aadhaar, DigiLocker or any other official system, and it is not an official government portal.
-
+## Website : https://apaar-ready-1.ai.studio
 ---
 
 ## What it does
@@ -123,11 +123,7 @@ Deploy the output to Vercel or Netlify and add the same environment variables th
 
 ---
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/942432a4-27f0-4839-84b3-dfc034632806
 
 ## Run Locally
 
