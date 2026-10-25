@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+:root {
+  --sidebar-bg: #1D4ED8;
+  --sidebar-hover-bg: #2563EB;
+  --sidebar-active-bg: #3B82F6;
+  --sidebar-active-border: #FFFFFF;
+  --sidebar-border: #1E40AF;
+  --sidebar-footer-bg: #1E3A8A;
+  --sidebar-text: #FFFFFF;
+  --sidebar-text-muted: #DBEAFE;
+}
+
+@layer base {
+  body {
+    font-family: 'Public Sans', 'Noto Sans', 'Noto Sans Devanagari', 'Noto Sans Telugu', -apple-system, BlinkMacSystemFont, sans-serif;
+    color: #0F172A;
+    background-color: #F8FAFC;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Plus Jakarta Sans', 'Noto Sans', 'Noto Sans Devanagari', 'Noto Sans Telugu', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  .font-display {
+    font-family: 'Plus Jakarta Sans', 'Noto Sans', 'Noto Sans Devanagari', 'Noto Sans Telugu', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  .font-multilingual {
+    font-family: 'Noto Sans', 'Noto Sans Devanagari', 'Noto Sans Telugu', sans-serif;
+  }
+
+  .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.sidebar-scroll-hidden {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.sidebar-scroll-hidden::-webkit-scrollbar {
+  display: none;
+}
+

@@ -1,0 +1,8 @@
+{
+  "name": "APAAR Ready",
+  "description": "Enterprise higher education student identity readiness, data quality, and intake governance demo portal across Teacher, College Management, and AICTE roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
