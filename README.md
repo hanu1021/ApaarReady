@@ -5,7 +5,7 @@
 Smart India Hackathon 2026 · Problem Statement ID: SIH26263 · Team: SKYJAD
 
 > **Demonstration build.** All data is synthetic. This project is not connected to the real APAAR, UDISE+, Aadhaar, DigiLocker or any other official system, and it is not an official government portal.
-## Website : https://apaar-ready-1.ai.studio
+## Website : https://apaar-ready-2.ai.studio
 ---
 
 ## What it does
